@@ -24,7 +24,9 @@ keep in mind that repo has hacktoberfest topic..
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align='center'>
   <img src="https://img.shields.io/badge/opensource-%F0%9F%8C%9F-green" alt="opensource badge"/>
-  <a href='https://github.com/Nitin-Diwakar/'><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="contributions"></a>
+  <a href='https://github.com/Nitin-Diwakar/'><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="contributions/"></a>
+  <a><img src='https://img.shields.io/github/issues-pr-raw/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022' alt='pull request/'></a>
+  <img src="https://img.shields.io/github/contributors/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022" alt="contirbutor/">
 </div>
 
 
