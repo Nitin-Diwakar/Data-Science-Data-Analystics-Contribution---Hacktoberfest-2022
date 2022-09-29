@@ -17,7 +17,7 @@ keep in mind that repo has hacktoberfest topic..
 
 <p align="center">
   <a href="https://hacktoberfest.com/">
-    <img src="https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/master/Assets/hacktoberfest%20logo.png" width="55%">
+    <img src="https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/master/Assets/hacktoberfest%20logo.png" width="63%">
   </a>
 </p>
 
@@ -27,6 +27,7 @@ keep in mind that repo has hacktoberfest topic..
   <a href='https://github.com/Nitin-Diwakar/'><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="contributions/"></a>
   <a><img src='https://img.shields.io/github/issues-pr-raw/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022' alt='pull request/'></a>
   <img src="https://img.shields.io/github/contributors/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022" alt="contirbutor/">
+  <a href='https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/6f66985d1865c5e540d944c2af7c9bd912a44da8/LICENCE.md'><img src='https://img.shields.io/badge/Licence-CC0--1.0-red' alt='licence'></a>
 </div>
 
 
