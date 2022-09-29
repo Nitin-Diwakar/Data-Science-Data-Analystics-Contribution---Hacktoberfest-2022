@@ -59,3 +59,17 @@ Steps for adding your name below
     2. Edit `CONTRIBUTERS.MD` file
     3. Add your Name also link your github profile
     4. Make pull request
+
+
+
+
+
+
+Contributions of any kind welcome!
+
+>    NOTE: if you should be on the list of contributors but we forgot you, don't be shy and let us know!
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Nitin Diwakar](https://www.linkedin.com/in/nitin-diwakar-231495140/) has waived all copyright and related or neighboring rights to this work.
