@@ -22,6 +22,10 @@ keep in mind that repo has hacktoberfest topic..
 </p>
 
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
+<div align='center'>
+  <img src="https://img.shields.io/badge/opensource-%F0%9F%8C%9F-green" alt="opensource badge"/>
+  <a href='https://github.com/Nitin-Diwakar/'><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="contributions"></a>
+</div>
 
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
