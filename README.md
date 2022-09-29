@@ -16,7 +16,14 @@ keep in mind that repo has hacktoberfest topic..
 ```
 
 <p align="center">
-<a href="https://hacktoberfest.com/">
-<img src="https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/master/Assets/hacktoberfest%20logo.png" width="55%">
-</a>
+  <a href="https://hacktoberfest.com/">
+    <img src="https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/master/Assets/hacktoberfest%20logo.png" width="55%">
+  </a>
 </p>
+
+<h1 align="center"> Hacktoberfest 2022 🎉</h1>
+
+
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
+
+📢 **Register [here](https://hacktoberfest.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
