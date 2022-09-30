@@ -1,6 +1,12 @@
+<p align="center">
+  <a href="https://hacktoberfest.com/">
+    <img src="https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/master/Assets/hacktoberfest%20logo.png" width="63%">
+  </a>
+</p>
+
 # Special Note For Everyone
 ```py
-
+'''
 HERE’S WHAT YOU NEED TO KNOW TO PARTICIPATE AND COMPLETE HACKTOBERFEST:
 
 - Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
@@ -13,13 +19,10 @@ then you have remains 3 valid pull request if these projects is not excluded.
 if you fail to make 4 pull request then you cant get swags or t-shirts.
 i will recommend you make pull request to your own repo which is very very saffest side for you..
 keep in mind that repo has hacktoberfest topic..
+'''
 ```
 
-<p align="center">
-  <a href="https://hacktoberfest.com/">
-    <img src="https://github.com/Nitin-Diwakar/Data-Science-Data-Analystics-Contribution---Hacktoberfest-2022/blob/master/Assets/hacktoberfest%20logo.png" width="63%">
-  </a>
-</p>
+
 
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align='center'>
@@ -56,6 +59,7 @@ keep in mind that repo has hacktoberfest topic..
 Steps for adding your name below
 
     1. Fork this repo
+    2. Add your Analysis File/Dashboard/Report (Your choice) to contribution directory.
     2. Edit `CONTRIBUTERS.MD` file
     3. Add your Name also link your github profile
     4. Make pull request
