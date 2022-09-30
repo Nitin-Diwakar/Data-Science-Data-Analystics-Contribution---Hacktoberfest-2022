@@ -59,7 +59,7 @@ keep in mind that repo has hacktoberfest topic..
 Steps for adding your name below
 
     1. Fork this repo
-    2. Add your Analysis File/Dashboard/Report (Your choice) to contribution directory.
+    2. Add your Analysis File/Dashboard/Report (Your choice) to `.contribution` directory.
     2. Edit `CONTRIBUTERS.MD` file
     3. Add your Name also link your github profile
     4. Make pull request
