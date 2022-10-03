@@ -60,9 +60,9 @@ Steps for adding your name below
 
     1. Fork this repo
     2. Add your Analysis File/Dashboard/Report (Your choice) to `.contribution` directory.
-    2. Edit `CONTRIBUTERS.MD` file
-    3. Add your Name also link your github profile
-    4. Make pull request
+    3. Edit `CONTRIBUTERS.MD` file
+    4. Add your Name also link your github profile
+    5. Make pull request
 
 
 
