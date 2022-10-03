@@ -1,5 +1,5 @@
 | Name| Github| Starred the repo|
 | --- | ----------- |---------|
 | Raiobrine             | https://github.com/Raiobrine                                  | YES |
-| Dulya Perera | Dulyaaa | ✅ |
+| Dulya Perera | [Dulyaaa](https://github.com/Dulyaaa) | YES |
 
