@@ -4,4 +4,4 @@
 | Dulya Perera | [Dulyaaa](https://github.com/Dulyaaa) | YES |
 | Kalpesh Kawalkar| https://github.com/Kalpesh-Kawalkar | YES |
 | Lancelot03| https://github.com/Lancelot03 | YES |
-| Himanshu Gupta| https://github.com/himanshugupta09 | YES |
+| Hiamshu Gupta| https://github.com/himanshugupta09 | YES |
