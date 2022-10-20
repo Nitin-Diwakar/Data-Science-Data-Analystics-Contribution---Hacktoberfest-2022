@@ -5,3 +5,4 @@
 | Kalpesh Kawalkar| https://github.com/Kalpesh-Kawalkar | YES |
 | Lancelot03| https://github.com/Lancelot03 | YES |
 | Hiamshu Gupta| https://github.com/himanshugupta09 | YES |
+| Amit Yadav| https://github.com/warriorwizard | YES |
