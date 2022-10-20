@@ -6,3 +6,4 @@
 | Lancelot03| https://github.com/Lancelot03 | YES |
 | Hiamshu Gupta| https://github.com/himanshugupta09 | YES |
 | Jayaprakash SL | https://github.com/Jpduker | YES |
+| Amit Yadav| https://github.com/warriorwizard | YES |
